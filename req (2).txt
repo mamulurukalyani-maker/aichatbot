@@ -1,0 +1,8 @@
+streamlit
+dotenv
+langchain
+langchain_huggingface
+huggingface_hub
+reportlab
+langchain-core
+langchain-community
